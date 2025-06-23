@@ -1,2 +1,14 @@
 # PID-GenAI
 Study on the impact of Generative Artificial Intelligence tools on university assessment methods
+
+The following recommendations were obtained from this project:
+1)
+
+___
+All contents published in this repository are subject to a license:
+
+[![CC-BY-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+<div style="font-size: 80%">
+These recommendations have been elaborated within the Teaching Innovation Project entitled "STUDY ON THE IMPACT OF GENERATIVE ARTIFICIAL INTELLIGENCE TOOLS ON UNIVERSITY ASSESSMENT METHODS" (LP2. Initiatives focused on the virtualization of teaching and the use of Generative Artificial Intelligence tools) funded by the Guidance and Teacher Training Service (SOFD) of the University of Extremadura (UEx), SPAIN (Teaching Innovation Actions from the UEx Guidance and Teacher Training Service 2024/2025).
+</div>
