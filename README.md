@@ -2,9 +2,7 @@
 Study on the impact of Generative Artificial Intelligence tools on university assessment methods
 
 The following recommendations were obtained from this project:
-
 1. Don't use a Generative Artificial Intelligence tool (GenAI) for elaborating your exam. If you use a GenAI for preparing your exam, then the GenAI will know all the answers to all your exam questions.
-
 2. 
 
 ___
