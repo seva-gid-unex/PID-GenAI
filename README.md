@@ -3,7 +3,7 @@ Study on the impact of Generative Artificial Intelligence tools on university as
 
 The following recommendations were obtained from this project:
 1. Don't use a Generative Artificial Intelligence tool (GenAI) for elaborating your exam. If you use a GenAI for preparing your exam, then the GenAI will know all the answers to all your exam questions.
-2. Don't ask for literal and structured definitions in your exam. This is the type of knowledge that GenAI works best with.
+2. Don't ask for literal or structured definitions in your exam. This is the type of knowledge that GenAI works best with.
 3. Ask for applied or interpretative knowledge in your exam. This type of knowledge presents greater difficulties for GenAI.
 4. Penalize the wrong answers if your exam is a multiple-choice test. In general, while students leave blank the questions they do not know, GenAI tries to answer all the questions, even those it does not know.
 5. Penalize heavily the serious errors. When GenAI answers a question incorrectly, it often fails in areas that would mean a student doesn't have a clear understanding of the concepts; that is, GenAI's errors are generally more serious.
