@@ -9,6 +9,7 @@ The following recommendations were obtained from this project:
 5. Heavily penalize serious errors. When GenAI answers a question incorrectly, it often fails in areas that would mean a lack of clear understanding of the concepts; that is, GenAI's errors are generally more serious.
 6. Heavily penalize contradictory statements such as "obsolete (though updated)". In general, only GenAI makes this kind of statements.
 7. Be wary of verbose answers. GenAI generally tends to give this type of answers.
+8. Be wary of grandiloquent answers. GenAI generally tends to give this type of answers.
 
 ___
 All contents published in this repository are subject to a license:
