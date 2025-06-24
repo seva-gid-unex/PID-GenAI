@@ -6,8 +6,9 @@ The following recommendations were obtained from this project:
 2. Don't ask for literal or structured definitions in your exam. This is the type of knowledge that GenAI works best with.
 3. Ask for applied or interpretative knowledge in your exam. This type of knowledge presents greater difficulties for GenAI.
 4. Penalize the wrong answers if your exam is a multiple-choice test. In general, while students leave blank the questions they do not know, GenAI tries to answer all the questions, even those it does not know.
-5. Penalize heavily the serious errors. When GenAI answers a question incorrectly, it often fails in areas that would mean a student doesn't have a clear understanding of the concepts; that is, GenAI's errors are generally more serious.
-6. 
+5. Heavily penalize the serious errors. When GenAI answers a question incorrectly, it often fails in areas that would mean a student doesn't have a clear understanding of the concepts; that is, GenAI's errors are generally more serious.
+6. Heavily penalize contradictory statements such as "obsolete (though updated)". In general, only GenAI makes this kind of statements.
+7. 
 
 ___
 All contents published in this repository are subject to a license:
