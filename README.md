@@ -8,7 +8,7 @@ The following recommendations were obtained from this project:
 4. Penalize the wrong answers if your exam is a multiple-choice test. In general, while students leave blank the questions they do not know, GenAI tries to answer all the questions, even those it does not know.
 5. Heavily penalize serious errors. When GenAI answers a question incorrectly, it often fails in areas that would mean a lack of clear understanding of the concepts; that is, GenAI's errors are generally more serious.
 6. Heavily penalize contradictory statements such as "obsolete (though updated)". In general, only GenAI makes this kind of statements.
-7. 
+7. Be wary of verbose answers. GenAI generally tends to give this type of answers.
 
 ___
 All contents published in this repository are subject to a license:
