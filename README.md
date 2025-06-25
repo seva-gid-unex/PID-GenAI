@@ -10,6 +10,7 @@ The following recommendations were obtained from this project:
 6. Heavily penalize contradictory statements such as "obsolete (though updated)". In general, only GenAI makes this kind of statements.
 7. Be wary of verbose answers. GenAI generally tends to give this type of answers.
 8. Be wary of grandiloquent statements like "the transcendental contribution of my student project is...". In general, only GenAI makes this kind of statements.
+9. Whenever possible, have your students take the exam in person. Using GenAI in in-person exams is much more complex.
 
 ___
 All contents published in this repository are subject to a license:
